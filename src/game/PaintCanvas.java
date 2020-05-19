@@ -166,7 +166,7 @@ public class PaintCanvas {
 		});
 		// 빨 버튼 눌렀을 때
 		redBtn.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent arg0) {
+			public void actionPerformed(ActionEvent arg0) {          
 				color = 1;
 			}
 		});
